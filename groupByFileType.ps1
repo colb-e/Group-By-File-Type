@@ -7,7 +7,7 @@ by file type into folders. The reason I made this program was to easily group my
 different file types into folders by their given file type. This allows me to easily place all my roms into their correct
 folders on my emulation system, I hope others can find use of this too!
 
-A note file setup: To ensure this program will work as intended please make sure you only have all the folders you wish to be
+A note on file setup: To ensure this program will work as intended please make sure you only have all the folders you wish to be
 organized and this progam in a folder. It is also important to note that this program will extract all files from each folder
 and then delete the said folder, if any folder has sub folders it will simply extract those as well and not organize them
 into file type folders but rather leave them in the root folder.
